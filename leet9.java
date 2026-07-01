@@ -1,4 +1,5 @@
-// 121
+// Check whether Number is Palindrome or not.
+
 import java.util.Scanner;
 
 public class leet9{
@@ -20,9 +21,9 @@ public class leet9{
           }
           
            if(org == rev){
-            System.out.println("yes  palidrome");}
+            System.out.println("yes  palindrome");}
              else{
-            System.out.println("not Palidrome");
+            System.out.println("not Palindrome");
         }
         }
        
